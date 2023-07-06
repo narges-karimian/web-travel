@@ -1,0 +1,208 @@
+[
+	{
+		"ID": 1,
+		"Name": "پارسیان آزادی",
+		"Address": "تهران، بزرگراه شهید چمران، تقاطع اوین هتل پارسیان آزادی تهران",
+		"Phone": "021-29112",
+		"ThumbNailUrl": "http://storage.hiholiday.ir/File/Accommodation/Parsianazadi-Tehran/Wallpaper.jpg",
+		"StarRating": 5,
+		"Description": "هتل پارسیان آزادی که قدمتش به‌پیش از انقلاب می‌رسد، از هتل‌های محبوب تهران است. اتوبان چمران را که پایین برویم نگاهمان به آن خیره می‌شود. برجی است در نقطه‌ی خوش آب‌وهوای شهر، مجاور اوین و نزدیک به کوه‌های توچال. از آن بالا کل تهران معلوم است اما از آلودگی‌اش اثری نیست. اگر به کسی که هتل پارسیان آزادی را نمی‌شناسد بگوییم قبلاً اسمش هایت بوده اعتمادش سریع جلب می‌شود اما بااینکه اسم هتل تغییر کرده محبوبیتش همچنان برقرار است.",
+		"Region": "تهران",
+		"AccommodationRooms": [
+			{
+				"Date": "۱۴۰۲/۰۴/۱۴",
+				"Price": 1123500
+			},
+			{
+				"Date": "۱۴۰۲/۰۴/۱۵",
+				"Price": 1123500
+			},
+			{
+				"Date": "۱۴۰۲/۰۴/۱۴",
+				"Price": 1123500
+			},
+			{
+				"Date": "۱۴۰۲/۰۴/۱۴",
+				"Price": 1270500
+			},
+			{
+				"Date": "۱۴۰۲/۰۴/۱۵",
+				"Price": 1270500
+			}
+		],
+		"AccommodationFiles": [
+			{
+				"Caption": "عکس از آپارتمان پدرام سرعین",
+				"Url": "https://storage.hiholiday.ir/file/accommodation/pedram-sareyn/apartment.jpg"
+			},
+			{
+				"Caption": "عکس از آپارتمان پدرام سرعین",
+				"Url": "https://storage.hiholiday.ir/file/accommodation/pedram-sareyn/apartment3.jpg"
+			}
+		]
+	},
+	{
+		"ID": 2,
+		"Name": "اسپیناس خلیج فارس",
+		"Address": "تهران، ضلع جنوبی بلوار کشاورز، بین خ نادری و فلسطین، هتل اسپیناس خلیج فارس تهران.",
+		"Phone": "021-83844",
+		"ThumbNailUrl": "http://storage.hiholiday.ir/File/Accommodation/Espinaskhalijefars-Tehran/Wallpaper.jpg",
+		"StarRating": 5,
+		"Description": "هتل اسپیناس خلیج فارس در بافت قدیمی تهران، در محبوب‌ترین بلوارش یعنی بلوار کشاورز واقع‌شده، بلواری که بیشتر از هرکجای تهران هوای عابران پیاده را دارد. هتل اسپیناس خلیج فارس لوکس و مدرن است، پا روی پله‌های ورودی‌اش که بگذارید احساس VIP بودن رهایتان نخواهد کرد. هتل اسپیناس خلیج فارس تازه‌ساز است، امکانات رفاهی، تفریحی و ورزشی زیادی دارد.",
+		"Region": "تهران",
+		"AccommodationRooms": [
+			{
+				"Date": "۱۴۰۲/۰۴/۱۴",
+				"Price": 1123500
+			},
+			{
+				"Date": "۱۴۰۲/۰۴/۱۵",
+				"Price": 1123500
+			},
+			{
+				"Date": "۱۴۰۲/۰۴/۱۴",
+				"Price": 1123500
+			},
+			{
+				"Date": "۱۴۰۲/۰۴/۱۴",
+				"Price": 1270500
+			},
+			{
+				"Date": "۱۴۰۲/۰۴/۱۵",
+				"Price": 1270500
+			}
+		],
+		"AccommodationFiles": [
+			{
+				"Caption": "کافی شاپ پدرام",
+				"Url": "https://storage.hiholiday.ir/file/accommodation/pedram-sareyn/coffeeshop.jpg"
+			},
+			{
+				"Caption": "کافی شاپ",
+				"Url": "https://storage.hiholiday.ir/file/accommodation/pedram-sareyn/coffeeshop1.jpg"
+			}
+		]
+	},
+	{
+		"ID": 3,
+		"Name": "سیمرغ",
+		"Address": "تهران . خیابان ولیعــصر حدفاصل پارک ساعی و خیابان دکتر بهشتی",
+		"Phone": "021-88719911",
+		"ThumbNailUrl": "http://storage.hiholiday.ir/File/Accommodation/Simorgh-Tehran/Wallpaper.jpg",
+		"StarRating": 4,
+		"Description": "هتل اسپیناس خلیج فارس در بافت قدیمی تهران، در محبوب‌ترین بلوارش یعنی بلوار کشاورز واقع‌شده، بلواری که بیشتر از هرکجای تهران هوای عابران پیاده را دارد. هتل اسپیناس خلیج فارس لوکس و مدرن است، پا روی پله‌های ورودی‌اش که بگذارید احساس VIP بودن رهایتان نخواهد کرد. هتل اسپیناس خلیج فارس تازه‌ساز است، امکانات رفاهی، تفریحی و ورزشی زیادی دارد.",
+		"Region": "تهران",
+		"AccommodationRooms": [
+			{
+				"Date": "۱۴۰۲/۰۴/۱۴",
+				"Price": 1123500
+			},
+			{
+				"Date": "۱۴۰۲/۰۴/۱۵",
+				"Price": 1123500
+			},
+			{
+				"Date": "۱۴۰۲/۰۴/۱۴",
+				"Price": 1123500
+			},
+			{
+				"Date": "۱۴۰۲/۰۴/۱۴",
+				"Price": 1270500
+			},
+			{
+				"Date": "۱۴۰۲/۰۴/۱۵",
+				"Price": 1270500
+			}
+		],
+		"AccommodationFiles": [
+			{
+				"Caption": "کافی شاپ",
+				"Url": "https://storage.hiholiday.ir/file/accommodation/pedram-sareyn/coffeeshop2.jpg"
+			}
+		]
+	},
+	{
+		"ID": 4,
+		"Name": "پارسیان اوین",
+		"Address": "بزرگراه چمران سه راه اوین، هتل اوین تهران.",
+		"Phone": "021-27400",
+		"ThumbNailUrl": "http://storage.hiholiday.ir/File/Hotel/Parsian-Evin-Tehran/Wallpaper.jpg",
+		"StarRating": 4,
+		"Description": "هتل اوین یکی از زیباترین هتل‌های 4 ستاره ایران در منطقه‌ای خوش آب و هوا در شمال تهران و در تقاطع بزرگراه چمران و اتوبان یادگار امام واقع شده است‌ . موقعیت مکانی هتل نسبت به بزرگراه‌های مختلف‌، دسترسی به فرودگاه‌، مرکز شهر و نمایشگاه بین‌المللی را آسان نموده است‌",
+		"Region": "تهران",
+		"AccommodationRooms": [
+			{
+				"Date": "۱۴۰۲/۰۴/۱۴",
+				"Price": 1123500
+			},
+			{
+				"Date": "۱۴۰۲/۰۴/۱۵",
+				"Price": 1123500
+			},
+			{
+				"Date": "۱۴۰۲/۰۴/۱۴",
+				"Price": 1123500
+			},
+			{
+				"Date": "۱۴۰۲/۰۴/۱۴",
+				"Price": 1270500
+			},
+			{
+				"Date": "۱۴۰۲/۰۴/۱۵",
+				"Price": 1270500
+			}
+		],
+		"AccommodationFiles": [
+			{
+				"Caption": "نمای خارجی",
+				"Url": "https://storage.hiholiday.ir/file/accommodation/pedram-sareyn/facade.jpg"
+			},
+			{
+				"Caption": "لابی هتل آپارتمان پدرام",
+				"Url": "https://storage.hiholiday.ir/file/accommodation/pedram-sareyn/lobby.jpg"
+			}
+		]
+	},
+	{
+		"ID": 5,
+		"Name": "پارسیان انقلاب",
+		"Address": " تهران، خیابان طالقانی، بین خیابان ولیعصر و حافظ، ش 341، هتل انقلاب تهران.",
+		"Phone": "021-88937251",
+		"ThumbNailUrl": "http://storage.hiholiday.ir/File/Accommodation/Parsianenghelab-Tehran/Wallpaper.jpg",
+		"StarRating": 4,
+		"Description": "هتل پارسیان انقلاب تهران مکانی است که اگر بخواهید در بافت قدیمی شهر اقامت داشته باشید، به اداره‌ها و مراکز خرید و جاذبه‌های تاریخی و فرهنگی نزدیک باشید و خیلی در قیدوبند رفت‌وآمد نباشید، جای خوبی برای اقامت است. هتلی در خیابان طالقانی که نزدیک چهل سال از ساختش می‌گذرد و قبل از اینکه انقلاب شود، رویال گاردن بود و تجربه‌ی زیادی در هتلداری دارد. ",
+		"Region": "تهران",
+		"AccommodationRooms": [
+			{
+				"Date": "۱۴۰۲/۰۴/۱۴",
+				"Price": 1123500
+			},
+			{
+				"Date": "۱۴۰۲/۰۴/۱۵",
+				"Price": 1123500
+			},
+			{
+				"Date": "۱۴۰۲/۰۴/۱۴",
+				"Price": 1123500
+			},
+			{
+				"Date": "۱۴۰۲/۰۴/۱۴",
+				"Price": 1270500
+			},
+			{
+				"Date": "۱۴۰۲/۰۴/۱۵",
+				"Price": 1270500
+			}
+		],
+		"AccommodationFiles": [
+			{
+				"Caption": "لابی هتل آپارتمان پدرام",
+				"Url": "https://storage.hiholiday.ir/file/accommodation/pedram-sareyn/lobby1.jpg"
+			},
+			{
+				"Caption": "لابی هتل آپارتمان پدرام",
+				"Url": "https://storage.hiholiday.ir/file/accommodation/pedram-sareyn/lobby2.jpg"
+			}
+		]
+	}
+]

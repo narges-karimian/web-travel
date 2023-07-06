@@ -1,0 +1,7 @@
+body {
+    background-color: var(--color-bg-light-default);
+    color: var(--color-text-base-1);
+    font-family: 'yekanBakh', 'iranSans', sans-serif;
+    font-weight: normal;
+    direction: rtl;
+}

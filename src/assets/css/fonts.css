@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'iranSans';
+    src: url('@/assets/fonts/ttf/IranianSans.ttf');
+}
+
+@font-face {
+    font-family: 'yekanBakh';
+    font-weight: normal;
+    font-style: normal;
+    src: url('@/assets/fonts/ttf/YekanBakh-Light.ttf') format('truetype'),
+        url('@/assets/fonts/woff/YekanBakh-Light.woff') format('woff'),
+        url('@/assets/fonts/woff2/YekanBakh-Light.woff2') format('woff2')
+}
+
+@font-face {
+    font-family: 'yekanBakh';
+    font-weight: medium;
+    font-style: normal;
+    src: url('@/assets/fonts/ttf/YekanBakh-Regular.ttf') format('truetype'),
+        url('@/assets/fonts/woff/YekanBakh-Regular.woff') format('woff'),
+        url('@/assets/fonts/woff2/YekanBakh-Regular.woff2') format('woff2')
+}
+
+@font-face {
+    font-family: 'yekanBakh';
+    font-weight: bold;
+    font-style: normal;
+    src: url('@/assets/fonts/ttf/YekanBakh-Bold.ttf') format('truetype'),
+        url('@/assets/fonts/woff/YekanBakh-Bold.woff') format('woff'),
+        url('@/assets/fonts/woff2/YekanBakh-Bold.woff2') format('woff2')
+}
+
+
+@font-face {
+    font-family: 'yekanBakh';
+    font-weight: 900;
+    font-style: normal;
+    src: url('@/assets/fonts/ttf/YekanBakh-Black.ttf') format('truetype'),
+        url('@/assets/fonts/woff/YekanBakh-Black.woff') format('woff'),
+        url('@/assets/fonts/woff2/YekanBakh-Black.woff2') format('woff2')
+}

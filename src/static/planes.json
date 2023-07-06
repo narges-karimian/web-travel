@@ -1,0 +1,82 @@
+[
+	{
+		"ID": 1,
+		"Date": "۱۴۰۲/۰۴/۱۲",
+		"DepartureTime": "8:00 AM",
+		"ArrivalTime": "09:30 AM",
+		"AdtPrice": 3007200,
+		"ChdPrice": 2324700,
+		"InfPrice": 308000,
+		"Capacity": 9,
+		"Airline": {
+			"Name": "ماهان ایر",
+			"Logo": "https://storage.hiholiday.ir/File/AirlineLogo/W5.png"
+		},
+		"Departure": "تهران",
+		"Arrival": "اهواز"
+	},
+	{
+		"ID": 2,
+		"Date": "۱۴۰۲/۰۴/۱۲",
+		"DepartureTime": "10:35 AM",
+		"ArrivalTime": "09:30 PM",
+		"AdtPrice": 380000,
+		"ChdPrice": 285000,
+		"InfPrice": 38000,
+		"Capacity": 9,
+		"Airline": {
+			"Name": "آسمان پرواز ایرانیان",
+			"Logo": "https://storage.hiholiday.ir/File/SupplierLogo/2380.png"
+		},
+		"Departure": "تهران",
+		"Arrival": "مشهد"
+	},
+	{
+		"ID": 3,
+		"Date": "۱۴۰۲/۰۴/۱۲",
+		"DepartureTime": "10:35 AM",
+		"ArrivalTime": "09:30 PM",
+		"AdtPrice": 380000,
+		"ChdPrice": 287100,
+		"InfPrice": 44210,
+		"Capacity": 12,
+		"Airline": {
+			"Name": "آسمان پرواز ایرانیان",
+			"Logo": "https://storage.hiholiday.ir/File/SupplierLogo/2380.png"
+		},
+		"Departure": "تهران",
+		"Arrival": "مشهد"
+	},
+	{
+		"ID": 4,
+		"Date": "۱۴۰۲/۰۴/۱۲",
+		"DepartureTime": "10:35 AM",
+		"ArrivalTime": "09:30 PM",
+		"AdtPrice": 300000,
+		"ChdPrice": 0,
+		"InfPrice": 0,
+		"Capacity": 1,
+		"Airline": {
+			"Name": "زاگرس ایر",
+			"Logo": "https://storage.hiholiday.ir/File/AirlineLogo/ZV.png"
+		},
+		"Departure": "کیش",
+		"Arrival": "مشهد"
+	},
+	{
+		"ID": 5,
+		"Date": "۱۴۰۲/۰۴/۱۳",
+		"DepartureTime": "10:35 AM",
+		"ArrivalTime": "09:30 PM",
+		"AdtPrice": 390000,
+		"ChdPrice": 0,
+		"InfPrice": 0,
+		"Capacity": 1,
+		"Airline": {
+			"Name": "آتا",
+			"Logo": "https://storage.hiholiday.ir/File/AirlineLogo/Ata.png"
+		},
+		"Departure": "کیش",
+		"Arrival": "اصفهان"
+	}
+]

@@ -1,0 +1,33 @@
+{
+  "name": "web-project",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@mahdikhashan/vue3-click-outside": "^0.1.2",
+    "@vee-validate/i18n": "^4.9.3",
+    "@vee-validate/rules": "^4.9.3",
+    "@vueuse/integrations": "^10.1.2",
+    "axios": "^1.4.0",
+    "bootstrap": "^5.2.3",
+    "jalali-moment": "^3.3.11",
+    "pinia": "^2.0.32",
+    "pinia-plugin-persistedstate": "^3.1.0",
+    "universal-cookie": "^4.0.4",
+    "vee-validate": "^4.8.4",
+    "vue": "^3.2.47",
+    "vue-cookies": "^1.8.3",
+    "vue-router": "^4.1.6",
+    "vue3-persian-datetime-picker": "^1.2.2",
+    "vue3-toastify": "^0.1.9"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "vite": "^4.1.4",
+    "vite-svg-loader": "^4.0.0"
+  }
+}

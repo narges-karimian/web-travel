@@ -1,0 +1,146 @@
+[
+	{
+		"trainID": 1,
+        "trainStar": 3,
+        "DepartureTime": "07:50",
+        "ArrivalTime": "18:25",
+        "AdtPrice": 380000, 
+        "ChdPrice": 285000, 
+        "InfPrice": 38000,
+        "Capacity": 50, 
+        "Company": {
+            "name": "مهتاب سیرجم",
+            "logo": "https://cdn.alibaba.ir/static/img/train/train_14.png"
+        },
+        "train": {
+            "trainType": "پارسی",
+            "WagonCapacity" : 6
+        },
+		"Departure": "تهران",
+		"Arrival": "مشهد",
+        "CoupeFacilities": [
+            "سرویس خواب",
+            "پریز برق",
+            "بسته پذیرایی",
+            "سیستم تهویه",
+            "چراغ مطالعه",
+            "پک بهداشتی"
+        ],
+        "GeneralFacilities": [
+            "کتابخانه",
+            "ویلچر",
+            "توالت سیار",
+            "سرویس ایرانی"
+        ]
+	},
+    {
+		"trainID": 2,
+        "trainStar": 3,
+        "DepartureTime": "23:00",
+        "ArrivalTime": "10:05",
+        "AdtPrice": 380000, 
+        "ChdPrice": 285000, 
+        "InfPrice": 38000,
+        "Capacity": 50, 
+        "Company": {
+            "name": "مهتاب سیرجم",
+            "logo": "https://cdn.alibaba.ir/static/img/train/train_14.png"
+        },
+        "train": {
+            "trainType": "پارسی",
+            "WagonCapacity" : 6
+        },
+        "Departure": "مشهد",
+		"Arrival": "تهران",
+        "CoupeFacilities": [
+            "سرویس خواب",
+            "پریز برق",
+            "بسته پذیرایی",
+            "سیستم تهویه",
+            "چراغ مطالعه",
+            "پک بهداشتی"
+        ],
+        "GeneralFacilities": []
+	},
+    {
+		"trainID": 3,
+        "trainStar": 3,
+        "DepartureTime": "13:50",
+        "ArrivalTime": "00:30",
+        "AdtPrice": 380000, 
+        "ChdPrice": 285000, 
+        "InfPrice": 38000,
+        "Capacity": 50, 
+        "Company": {
+            "name": "رجا",
+            "logo": "https://cdn.alibaba.ir/static/img/train/train_1.png"
+        },
+        "train": {
+            "trainType": "خلیج فارس",
+            "WagonCapacity" : 4
+        },
+		"Departure": "تهران",
+		"Arrival": "مشهد",
+        "CoupeFacilities": [],
+        "GeneralFacilities": [
+            "کتابخانه",
+            "ویلچر",
+            "توالت سیار",
+            "سرویس ایرانی"
+        ]
+	},
+    {
+		"trainID": 4,
+        "trainStar": 3,
+        "DepartureTime": "13:50",
+        "ArrivalTime": "00:30",
+        "AdtPrice": 380000, 
+        "ChdPrice": 285000, 
+        "InfPrice": 38000,
+        "Capacity": 10, 
+        "Company": {
+            "name": "رجا",
+            "logo": "https://cdn.alibaba.ir/static/img/train/train_1.png"
+        },
+        "train": {
+            "trainType": "میلاد",
+            "WagonCapacity" : 6
+        },
+		"Departure": "تهران",
+		"Arrival": "مشهد",
+        "CoupeFacilities": [
+            "سرویس خواب",
+            "پریز برق",
+            "بسته پذیرایی",
+            "سیستم تهویه",
+            "چراغ مطالعه",
+            "پک بهداشتی"
+        ],
+        "GeneralFacilities": [
+            "کتابخانه",
+            "سرویس ایرانی"
+        ]
+	},
+    {
+		"trainID": 5,
+        "trainStar": 3,
+        "DepartureTime": "14:55",
+        "ArrivalTime": "14:50",
+        "AdtPrice": 380000, 
+        "ChdPrice": 285000, 
+        "InfPrice": 38000,
+        "Capacity": 30, 
+        "Company": {
+            "name": "رجا",
+            "logo": "https://cdn.alibaba.ir/static/img/train/train_1.png"
+        },
+        "train": {
+            "trainType": "میلاد نوین",
+            "WagonCapacity" : 6
+        },
+		"Departure": "تبریز",
+		"Arrival": "مشهد",
+        "CoupeFacilities": [],
+        "GeneralFacilities": []
+	}
+]
