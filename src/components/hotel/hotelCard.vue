@@ -72,6 +72,7 @@ const passengers = computed(() => `${props.searchData.passengers} مسافر`);
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-between;
+	box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 }
 
 .hotel__body {
