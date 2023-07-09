@@ -12,7 +12,11 @@ export const useHotelStore = defineStore("hotels", {
 		search(payload) {
 			this.hotelList = hotels.filter((hotel) => hotel.Region === payload.city);
 			this.searchData = { ...payload };
-			console.log(this.hotelList);
+		},
+		getHotelById(id) {
+			for (const hotel of this.hotelList) {
+				if (hotel.ID == id) return hotel;
+			}
 		},
 	},
 	persist: true,

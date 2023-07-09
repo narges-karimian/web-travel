@@ -3,7 +3,7 @@
 		<nav class="menu__navbar">
 			<div class="menu__logo">
 				<img
-					src="src/assets/img/logoEurostarFull.svg"
+					src="https://static.eurostar.com/ui/pictograms/logoEurostarFull.svg"
 					alt="logo" />
 			</div>
 			<ul class="menu__list">

@@ -36,7 +36,6 @@
 
 <script setup>
 import { computed, ref } from "vue";
-import { clickOutSide  as vClickOutSide  } from "@mahdikhashan/vue3-click-outside"
 
 const props = defineProps({
 	inputList: {

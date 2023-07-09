@@ -6,7 +6,7 @@ export const usePlaneStore = defineStore("planes", {
 		return {
 			planeDepartureList: [],
 			planeArrivalList: [],
-			searchPlaneData: {}
+			searchPlaneData: {},
 		};
 	},
 	actions: {
@@ -17,7 +17,7 @@ export const usePlaneStore = defineStore("planes", {
 					plain.Arrival === payload.to &&
 					plain.Date === payload.startTime
 			);
-			this.searchPlaneData = {...payload}
+			this.searchPlaneData = { ...payload };
 		},
 		searchArrival(payload) {
 			this.planeArrivalList = plains.filter(
@@ -26,7 +26,17 @@ export const usePlaneStore = defineStore("planes", {
 					plain.Arrival === payload.from &&
 					plain.Date === payload.endTime
 			);
-			this.searchPlaneData = {...payload}
+			this.searchPlaneData = { ...payload };
+		},
+		getDeparturePlaneById(id) {
+			for (const plane of this.planeDepartureList) {
+				if (plane.ID == id) return plane;
+			}
+		},
+		getArrivalPlaneById(id) {
+			for (const plane of this.planeArrivalList) {
+				if (plane.ID == id) return plane;
+			}
 		},
 	},
 

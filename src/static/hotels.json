@@ -10,34 +10,29 @@
 		"Region": "تهران",
 		"AccommodationRooms": [
 			{
+				"Name": "اتاق دو تخته پارک تويين(اقامت با صبحانه)",
 				"Date": "۱۴۰۲/۰۴/۱۴",
 				"Price": 1123500
 			},
 			{
+				"Name": "اتاق دو تخته پارک دبل(اقامت با صبحانه)",
 				"Date": "۱۴۰۲/۰۴/۱۵",
 				"Price": 1123500
 			},
 			{
+				"Name": "اتاق دو تخته دريا توئين(اقامت با صبحانه)",
 				"Date": "۱۴۰۲/۰۴/۱۴",
 				"Price": 1123500
 			},
 			{
+				"Name": "اتاق دو تخته دريا دبل(اقامت با صبحانه)",
 				"Date": "۱۴۰۲/۰۴/۱۴",
 				"Price": 1270500
 			},
 			{
+				"Name": "اتاق یک تخته استاندارد(اقامت با صبحانه)",
 				"Date": "۱۴۰۲/۰۴/۱۵",
 				"Price": 1270500
-			}
-		],
-		"AccommodationFiles": [
-			{
-				"Caption": "عکس از آپارتمان پدرام سرعین",
-				"Url": "https://storage.hiholiday.ir/file/accommodation/pedram-sareyn/apartment.jpg"
-			},
-			{
-				"Caption": "عکس از آپارتمان پدرام سرعین",
-				"Url": "https://storage.hiholiday.ir/file/accommodation/pedram-sareyn/apartment3.jpg"
 			}
 		]
 	},
@@ -52,34 +47,29 @@
 		"Region": "تهران",
 		"AccommodationRooms": [
 			{
+				"Name": "اتاق دو تخته پارک تويين(اقامت با صبحانه)",
 				"Date": "۱۴۰۲/۰۴/۱۴",
 				"Price": 1123500
 			},
 			{
+				"Name": "اتاق دو تخته پارک دبل(اقامت با صبحانه)",
 				"Date": "۱۴۰۲/۰۴/۱۵",
 				"Price": 1123500
 			},
 			{
+				"Name": "اتاق دو تخته دريا توئين(اقامت با صبحانه)",
 				"Date": "۱۴۰۲/۰۴/۱۴",
 				"Price": 1123500
 			},
 			{
+				"Name": "اتاق دو تخته دريا دبل(اقامت با صبحانه)",
 				"Date": "۱۴۰۲/۰۴/۱۴",
 				"Price": 1270500
 			},
 			{
+				"Name": "اتاق یک تخته استاندارد(اقامت با صبحانه)",
 				"Date": "۱۴۰۲/۰۴/۱۵",
 				"Price": 1270500
-			}
-		],
-		"AccommodationFiles": [
-			{
-				"Caption": "کافی شاپ پدرام",
-				"Url": "https://storage.hiholiday.ir/file/accommodation/pedram-sareyn/coffeeshop.jpg"
-			},
-			{
-				"Caption": "کافی شاپ",
-				"Url": "https://storage.hiholiday.ir/file/accommodation/pedram-sareyn/coffeeshop1.jpg"
 			}
 		]
 	},
@@ -94,30 +84,29 @@
 		"Region": "تهران",
 		"AccommodationRooms": [
 			{
+				"Name": "اتاق دو تخته پارک تويين(اقامت با صبحانه)",
 				"Date": "۱۴۰۲/۰۴/۱۴",
 				"Price": 1123500
 			},
 			{
+				"Name": "اتاق دو تخته پارک دبل(اقامت با صبحانه)",
 				"Date": "۱۴۰۲/۰۴/۱۵",
 				"Price": 1123500
 			},
 			{
+				"Name": "اتاق دو تخته دريا توئين(اقامت با صبحانه)",
 				"Date": "۱۴۰۲/۰۴/۱۴",
 				"Price": 1123500
 			},
 			{
+				"Name": "اتاق دو تخته دريا دبل(اقامت با صبحانه)",
 				"Date": "۱۴۰۲/۰۴/۱۴",
 				"Price": 1270500
 			},
 			{
+				"Name": "اتاق یک تخته استاندارد(اقامت با صبحانه)",
 				"Date": "۱۴۰۲/۰۴/۱۵",
 				"Price": 1270500
-			}
-		],
-		"AccommodationFiles": [
-			{
-				"Caption": "کافی شاپ",
-				"Url": "https://storage.hiholiday.ir/file/accommodation/pedram-sareyn/coffeeshop2.jpg"
 			}
 		]
 	},
@@ -126,40 +115,35 @@
 		"Name": "پارسیان اوین",
 		"Address": "بزرگراه چمران سه راه اوین، هتل اوین تهران.",
 		"Phone": "021-27400",
-		"ThumbNailUrl": "http://storage.hiholiday.ir/File/Hotel/Parsian-Evin-Tehran/Wallpaper.jpg",
+		"ThumbNailUrl": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2023-06-21/91eb46b8-7994-42f0-88dc-fa62109fce1b.jpg?w=964",
 		"StarRating": 4,
 		"Description": "هتل اوین یکی از زیباترین هتل‌های 4 ستاره ایران در منطقه‌ای خوش آب و هوا در شمال تهران و در تقاطع بزرگراه چمران و اتوبان یادگار امام واقع شده است‌ . موقعیت مکانی هتل نسبت به بزرگراه‌های مختلف‌، دسترسی به فرودگاه‌، مرکز شهر و نمایشگاه بین‌المللی را آسان نموده است‌",
 		"Region": "تهران",
 		"AccommodationRooms": [
 			{
+				"Name": "اتاق دو تخته پارک تويين(اقامت با صبحانه)",
 				"Date": "۱۴۰۲/۰۴/۱۴",
 				"Price": 1123500
 			},
 			{
+				"Name": "اتاق دو تخته پارک دبل(اقامت با صبحانه)",
 				"Date": "۱۴۰۲/۰۴/۱۵",
 				"Price": 1123500
 			},
 			{
+				"Name": "اتاق دو تخته دريا توئين(اقامت با صبحانه)",
 				"Date": "۱۴۰۲/۰۴/۱۴",
 				"Price": 1123500
 			},
 			{
+				"Name": "اتاق دو تخته دريا دبل(اقامت با صبحانه)",
 				"Date": "۱۴۰۲/۰۴/۱۴",
 				"Price": 1270500
 			},
 			{
+				"Name": "اتاق یک تخته استاندارد(اقامت با صبحانه)",
 				"Date": "۱۴۰۲/۰۴/۱۵",
 				"Price": 1270500
-			}
-		],
-		"AccommodationFiles": [
-			{
-				"Caption": "نمای خارجی",
-				"Url": "https://storage.hiholiday.ir/file/accommodation/pedram-sareyn/facade.jpg"
-			},
-			{
-				"Caption": "لابی هتل آپارتمان پدرام",
-				"Url": "https://storage.hiholiday.ir/file/accommodation/pedram-sareyn/lobby.jpg"
 			}
 		]
 	},
@@ -174,34 +158,29 @@
 		"Region": "تهران",
 		"AccommodationRooms": [
 			{
+				"Name": "اتاق دو تخته پارک تويين(اقامت با صبحانه)",
 				"Date": "۱۴۰۲/۰۴/۱۴",
 				"Price": 1123500
 			},
 			{
+				"Name": "اتاق دو تخته پارک دبل(اقامت با صبحانه)",
 				"Date": "۱۴۰۲/۰۴/۱۵",
 				"Price": 1123500
 			},
 			{
+				"Name": "اتاق دو تخته دريا توئين(اقامت با صبحانه)",
 				"Date": "۱۴۰۲/۰۴/۱۴",
 				"Price": 1123500
 			},
 			{
+				"Name": "اتاق دو تخته دريا دبل(اقامت با صبحانه)",
 				"Date": "۱۴۰۲/۰۴/۱۴",
 				"Price": 1270500
 			},
 			{
+				"Name": "اتاق یک تخته استاندارد(اقامت با صبحانه)",
 				"Date": "۱۴۰۲/۰۴/۱۵",
 				"Price": 1270500
-			}
-		],
-		"AccommodationFiles": [
-			{
-				"Caption": "لابی هتل آپارتمان پدرام",
-				"Url": "https://storage.hiholiday.ir/file/accommodation/pedram-sareyn/lobby1.jpg"
-			},
-			{
-				"Caption": "لابی هتل آپارتمان پدرام",
-				"Url": "https://storage.hiholiday.ir/file/accommodation/pedram-sareyn/lobby2.jpg"
 			}
 		]
 	}

@@ -1,6 +1,5 @@
 <template>
-	<div class="search">
-		<the-header></the-header>
+	<empty-layout>
 		<main class="search__body">
 			<div
 				v-if="type === 'Plane'"
@@ -59,13 +58,10 @@
 				</template>
 			</template>
 		</main>
-		<the-footer></the-footer>
-	</div>
+	</empty-layout>
 </template>
 
 <script setup>
-import TheHeader from "@/components/dashboard/TheHeader.vue";
-import TheFooter from "@/components/dashboard/TheFooter.vue";
 import { useRoute } from "vue-router";
 import { usePlaneStore } from "@/stores/Plane";
 import { useTrainStore } from "@/stores/Train";
@@ -73,6 +69,7 @@ import { useHotelStore } from "@/stores/Hotel";
 import PlaneCard from "@/components/Plane/PlaneCard.vue";
 import TrainCard from "@/components/Train/TrainCard.vue";
 import HotelCard from "@/components/hotel/hotelCard.vue";
+import EmptyLayout from "@/layout/EmptyLayout.vue";
 
 const route = useRoute();
 const type = route.params.type;
@@ -84,11 +81,6 @@ const { hotelList, searchData } = useHotelStore();
 </script>
 
 <style scoped>
-.search {
-	background-color: var(--color-bg-light-surface);
-	width: 100%;
-	height: 100vh;
-}
 
 .search__body {
 	margin: 5rem auto;

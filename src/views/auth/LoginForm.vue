@@ -3,7 +3,7 @@
     <h3 class="">ورود</h3>
     <base-input v-for="formField in formFields" class="input-group--outline" :type="formField.type"
       :value="formField.value" :name="formField.name" :label="formField.label" :placeholder="formField.placeholder"
-      :icon="formField.icon">
+      :rightIcon="formField.icon[0].name">
     </base-input>
     <base-button :isLoading="isLoggedIn" class="button--filled button_1" type="submit">ورود</base-button>
   </Form>

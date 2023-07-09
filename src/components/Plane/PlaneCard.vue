@@ -31,12 +31,12 @@
 					</div>
 				</div>
 			</div>
-			<div v-show="isDetailOpen" :class="['plane__details', 'body_1', { active: isDetailOpen }]">
+			<div
+				v-show="isDetailOpen"
+				:class="['plane__details', 'body_1', { active: isDetailOpen }]">
 				<div class="plane__detail-item">
 					<div class="plane__detail-title subtitle_2">مقدار بار مجاز</div>
-					<div class="plane__detail-body">
-						20 کیلوگرم
-					</div>
+					<div class="plane__detail-body">20 کیلوگرم</div>
 				</div>
 				<div class="plane__detail-item">
 					<div class="plane__detail-title subtitle_2">ظرفیت</div>
@@ -47,7 +47,9 @@
 		<div class="plane__reserve caption">
 			<div class="plane__capacity">{{ plane.Capacity }} نفر ظرفیت</div>
 			<div class="plane__price body_1">{{ planePrice }} تومان</div>
-			<base-button class="plane__reserve-button button--filled">
+			<base-button
+				class="plane__reserve-button button--filled"
+				@click="reservePlane">
 				انتخاب پرواز
 			</base-button>
 		</div>
@@ -56,6 +58,8 @@
 
 <script setup>
 import { computed, ref } from "vue";
+import { useRouter } from "vue-router";
+import { toEnglishDigits } from "@/utils/functions/englishDigits";
 
 const props = defineProps({
 	plane: {
@@ -69,6 +73,7 @@ const props = defineProps({
 });
 
 const isDetailOpen = ref(false);
+const router = useRouter();
 
 const planePrice = computed(() => {
 	let price = 0;
@@ -80,6 +85,21 @@ const planePrice = computed(() => {
 
 function toggleDetails() {
 	isDetailOpen.value = !isDetailOpen.value;
+}
+
+function reservePlane() {
+	router.push({
+		name: "singlePage",
+		params: { type: "Plane" },
+		query: {
+			id: props.plane.ID,
+			adult: props.searchData.users[0],
+			children: props.searchData.users[1],
+			inf: props.searchData.users[2],
+			startTime: toEnglishDigits(props.searchData.startTime),
+			endTime: toEnglishDigits(props.searchData.endTime),
+		},
+	});
 }
 </script>
 

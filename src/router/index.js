@@ -10,6 +10,7 @@ const TrainPage = () => import("@/views/app/TrainPage.vue");
 const HotelPage = () => import("@/views/app/HotelPage.vue");
 const NotFound = () => import("@/views/NotFound.vue");
 const SearchPage = () => import("@/views/app/SearchPage.vue");
+const singlePage = () => import("@/views/app/SinglePage.vue");
 
 const router = createRouter({
 	history: createWebHistory(),
@@ -59,6 +60,7 @@ const router = createRouter({
 			],
 		},
 		{ path: "/search/:type", name: "searchPage", component: SearchPage },
+		{ path: "/single/:type", name: "singlePage", component: singlePage},
 		{ path: "/:notFound(.*)", component: NotFound },
 	],
 });

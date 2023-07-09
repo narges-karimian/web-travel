@@ -20,8 +20,10 @@
 			</div>
 		</div>
 		<div class="hotel__reserve body_2">
-			<div class="hotel__detail">{{ attendanceTime }} {{ passengers }}</div>
-			<base-button class="hotel__reserve-button button--filled">
+			<div class="hotel__detail">{{ attendanceTime }} شب {{ passengers }}</div>
+			<base-button
+				class="hotel__reserve-button button--filled"
+				@click="reserveHotel">
 				مشاهده اتاق ها و رزرو
 			</base-button>
 		</div>
@@ -31,9 +33,10 @@
 <script setup>
 import StarIcon from "@/assets/icons/cardIcons/star.svg";
 import LocationIcon from "@/assets/icons/cardIcons/location.svg";
-import { computed, ref } from "vue";
+import { computed } from "vue";
 import moment from "jalali-moment";
 import { toEnglishDigits } from "@/utils/functions/englishDigits";
+import { useRouter } from "vue-router";
 
 const props = defineProps({
 	hotel: {
@@ -45,6 +48,8 @@ const props = defineProps({
 		required: true,
 	},
 });
+
+const router = useRouter();
 
 const attendanceTime = computed(() => {
 	const startTime = moment(
@@ -60,10 +65,22 @@ const attendanceTime = computed(() => {
 	attendance = attendance.subtract(startTime.jMonth(), "jMonth");
 	attendance = attendance.subtract(startTime.jDate(), "day");
 
-	return `${attendance.format("jD")} شب`;
+	return attendance.format("jD");
 });
 
 const passengers = computed(() => `${props.searchData.passengers} مسافر`);
+
+function reserveHotel() {
+	router.push({
+		name: "singlePage",
+		params: { type: "hotel" },
+		query: {
+			id: props.hotel.ID,
+			attendance: attendanceTime.value,
+			passengers: props.searchData.passengers,
+		},
+	});
+}
 </script>
 
 <style scoped>
